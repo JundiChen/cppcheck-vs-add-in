@@ -1,0 +1,1 @@
+Plugin for Visual Studio 2010 that will allow to run CppCheck from IDE.
